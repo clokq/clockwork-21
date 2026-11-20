@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "package": "dev.clockwork.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "EntityMixin",
+    "KeyboardInputMixin",
+    "LocalPlayerMixin",
+    "MinecraftMixin",
+    "BlockMixin",
+    "LevelMixin",
+    "ClientLevelMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
